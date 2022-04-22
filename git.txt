@@ -4,7 +4,4 @@ Ansible
 Jenkins
 Docker
 Python 
-.net
-Graddle
-Nio
-Nodge 
+.Net
