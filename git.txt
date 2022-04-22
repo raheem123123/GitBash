@@ -5,6 +5,3 @@ Jenkins
 Docker
 Python 
 .Net
-Kubernetes
-Java 
-C++
